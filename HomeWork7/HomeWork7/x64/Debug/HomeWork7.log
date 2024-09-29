@@ -1,0 +1,4 @@
+﻿  HomeWork7.cpp
+C:\Users\hrach\source\repos\HomeWork7\HomeWork7\HomeWork7.cpp(15,42): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\hrach\source\repos\HomeWork7\HomeWork7\HomeWork7.cpp(41,42): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  HomeWork7.vcxproj -> C:\Users\hrach\source\repos\HomeWork7\x64\Debug\HomeWork7.exe

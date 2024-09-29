@@ -1,0 +1,2 @@
+﻿  HomeWork7.cpp
+C:\Users\hrach\source\repos\HomeWork7\HomeWork7\HomeWork7.cpp(24,13): error C2679: бинарный "<<": не найден оператор, принимающий правый операнд типа "std::vector<std::string,std::allocator<std::string>>" (или приемлемое преобразование отсутствует)
